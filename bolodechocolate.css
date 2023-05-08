@@ -1,0 +1,30 @@
+.body {
+    background-color: rgb(235, 95, 40);
+}
+
+.conteudo {
+    width: 500px;
+    background-color: azure;
+    padding: 20px;
+    margin: 10px auto; 
+    border-width: 2px;
+    border-color:brown;
+    border-style: solid;
+    border-radius: 5px;
+    box-shadow: 10px 0px red;
+}
+#fotodobolo {
+
+    display: block;
+    width: 200px;
+    border-radius: 200px;
+    margin: 0 auto;
+    box-shadow: 5px 5px 5px gainsboro;
+    border-color: chocolate
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: brown;
+}
